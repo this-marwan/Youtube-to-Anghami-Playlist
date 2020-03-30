@@ -1,8 +1,8 @@
 # Youtube-to-Anghami-Playlist
 Convert your Youtube playlist to an Anghami one!
 
-This script transfers an Youtube playlist to an Anghami playlist
-To get this wroking you need fill in the variables below with:
+This script transfers an Youtube playlist to an Anghami playlist.
+To get this wroking you need to fill in the variables at the top of the script with:
 1. playlist ID
 2. your youtube API key
 3. your Anghami api key
