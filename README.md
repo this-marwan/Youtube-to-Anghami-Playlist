@@ -1,4 +1,4 @@
-# Youtube-to-Anghami-Playlist-
+# Youtube-to-Anghami-Playlist
 Convert your Youtube playlist to an Anghami one!
 
 This script transfers an Youtube playlist to an Anghami playlist
